@@ -47,7 +47,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"Tileset_gespeichert\/floortileset.tsx"
+         "source":"H1_Test/Tileset_gespeichert/floortileset.tsx"
         }],
  "tilewidth":32,
  "type":"map",
