@@ -119,7 +119,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"..\/..\/..\/..\/Downloads\/mindmapthat_-_Blue_Sky_Blues.mp3"
+                 "value":"..\/music\/mindmapthat_-_Blue_Sky_Blues.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
