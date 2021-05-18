@@ -1,0 +1,47 @@
+nav{
+    background-image: linear-gradient(to right,#1d6a7f,#82b432 0,#1e9650 17%,#0a5a64 45%,#32828c 78%,#28b4dc 100%);
+    background-repeat: no-repeat;
+    padding:20px;
+}
+nav p.titel{
+    color:white;
+    text-align: center;
+    padding:0px;
+    margin:0px;
+    font-size:30px;
+
+}
+
+table.Einleitung{
+    margin:20px;
+}
+
+table.Einleitung tr td.littlePadding{
+    height:10px;
+    
+}
+table.Einleitung tr td.col1{
+    width:80%;
+    height:10%;
+ 
+    vertical-align:top;
+}
+
+
+table.Einleitung tr td.col1 h1{
+    padding:0;
+    margin:0;
+    margin:3px;
+}
+table.Einleitung tr td.col1 p{
+    width:70%;
+}
+
+table.Einleitung tr td.col2{
+    width:10%; 
+}
+
+table.Einleitung tr td.col2 img{
+    width:10%;
+    padding:5% 
+}
