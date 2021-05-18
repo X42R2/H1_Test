@@ -565,7 +565,7 @@
         {
          "columns":1,
          "firstgid":600,
-         "image":"images\/map\/WeißLinie.png",
+         "image":"images\/map\/WeißeLinie.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -578,7 +578,7 @@
         {
          "columns":1,
          "firstgid":601,
-         "image":"images\/map\/weißFlaeche.png",
+         "image":"images\/map\/weißeFlaeche.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -595,7 +595,7 @@
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
-         "name":"Informationstafe2",
+         "name":"Informationstafel2",
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
