@@ -98,7 +98,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"..\/music\/mindmapthat_-_Blue_Sky_Blues.mp3"
+                 "value":"music\/mindmapthat_-_Blue_Sky_Blues.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -569,7 +569,7 @@
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
-         "name":"Wei\u00dfeLinie",
+         "name":"WeißeLinie",
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
