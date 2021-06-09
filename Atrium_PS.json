@@ -41,7 +41,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"music\/WATRFlow_Small stream 4 (ID 1354)_BSB.mp3"
+                 "value":"music/WATRFlow_Small stream 4 (ID 1354)_BSB.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -69,7 +69,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"music\/AMBForst_Forest (ID 0100)_BSB.mp3"
+                 "value":"music/AMBForst_Forest (ID 0100)_BSB.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -183,7 +183,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"images\/Atrium\/lpc-victorian-decoration\/victorian-garden.png",
+         "image":"images/Atrium/lpc-victorian-decoration/victorian-garden.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -196,7 +196,7 @@
         {
          "columns":16,
          "firstgid":1025,
-         "image":"images\/Atrium\/lpc-victorian-decoration\/victorian-market.png",
+         "image":"images/Atrium/lpc-victorian-decoration/victorian-market.png",
          "imageheight":2560,
          "imagewidth":512,
          "margin":0,
@@ -209,7 +209,7 @@
         {
          "columns":16,
          "firstgid":2305,
-         "image":"images\/Atrium\/lpc-victorian-decoration\/victorian-streets.png",
+         "image":"images/Atrium/lpc-victorian-decoration/victorian-streets.png",
          "imageheight":3072,
          "imagewidth":512,
          "margin":0,
@@ -245,7 +245,7 @@
         {
          "columns":32,
          "firstgid":4097,
-         "image":"images\/Atrium\/lpc-beach-desert\/beach-desert_2.png",
+         "image":"images/Atrium/lpc-beach-desert/beach-desert_2.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
